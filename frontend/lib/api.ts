@@ -1,4 +1,7 @@
-const BASE = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
+
+const BASE =
+  process.env.NEXT_PUBLIC_API_URL ??
+  "https://movie-recommendation-ashy.vercel.app";
 
 export type Movie = {
   MovieName: string;
@@ -13,7 +16,9 @@ export type Movie = {
   content_rating: string;
 };
 
-export type Recommendation = Movie & { similarity: number };
+export type Recommendation = Movie & {
+  similarity: number;
+};
 
 export type RecommendResponse = {
   selected: Movie;
@@ -22,13 +27,23 @@ export type RecommendResponse = {
 
 export async function getAllMovies(): Promise<Movie[]> {
   const res = await fetch(`${BASE}/api/movies?q=&limit=200`);
-  if (!res.ok) throw new Error("Failed to load movies");
+
+  if (!res.ok) {
+    throw new Error("Failed to load movies");
+  }
+
   return res.json();
 }
 
 export async function searchMovies(q: string): Promise<Movie[]> {
-  const res = await fetch(`${BASE}/api/movies?q=${encodeURIComponent(q)}&limit=8`);
-  if (!res.ok) throw new Error("Search failed");
+  const res = await fetch(
+    `${BASE}/api/movies?q=${encodeURIComponent(q)}&limit=8`
+  );
+
+  if (!res.ok) {
+    throw new Error("Search failed");
+  }
+
   return res.json();
 }
 
@@ -39,6 +54,10 @@ export async function getRecommendations(
   const res = await fetch(
     `${BASE}/api/recommend?movie=${encodeURIComponent(movie)}&n=${n}`
   );
-  if (!res.ok) throw new Error("Recommendation failed");
+
+  if (!res.ok) {
+    throw new Error("Recommendation failed");
+  }
+
   return res.json();
 }
