@@ -1,0 +1,118 @@
+MovieName,Genre,Rating,Director,Actor,PeopleVote,Year,Hero_Rating,movie_rating,content_rating
+Vikram,Action/Thriller,8.3,Lokesh Kanagaraj,Kamal Haasan,130000,2022,9.0,Excellent,UA
+Kaithi,Action/Thriller,8.4,Lokesh Kanagaraj,Karthi,55000,2019,8.0,Excellent,UA
+Master,Action/Thriller,7.3,Lokesh Kanagaraj,Vijay,50000,2021,8.8,Good,UA
+Leo,Action/Thriller,7.2,Lokesh Kanagaraj,Vijay,60000,2023,8.8,Good,UA
+Jailer,Action/Comedy,7.1,Nelson Dilipkumar,Rajinikanth,70000,2023,9.2,Good,UA
+Doctor,Action/Comedy,7.4,Nelson Dilipkumar,Sivakarthikeyan,20000,2021,8.0,Good,UA
+Kolamaavu Kokila,Dark Comedy,7.6,Nelson Dilipkumar,Nayanthara,18000,2018,8.0,Good,UA
+Asuran,Action/Drama,8.4,Vetrimaaran,Dhanush,55000,2019,8.6,Excellent,UA
+Vada Chennai,Crime/Drama,8.4,Vetrimaaran,Dhanush,40000,2018,8.6,Excellent,A
+Visaranai,Crime/Drama,8.3,Vetrimaaran,Dinesh,15000,2015,7.0,Excellent,A
+Aadukalam,Action/Drama,7.9,Vetrimaaran,Dhanush,14000,2011,8.6,Good,UA
+Viduthalai Part 1,Crime/Drama,8.3,Vetrimaaran,Soori,25000,2023,7.2,Excellent,A
+Polladhavan,Action/Drama,7.9,Vetrimaaran,Dhanush,12000,2007,8.6,Good,UA
+Super Deluxe,Dark Comedy/Drama,8.4,Thiagarajan Kumararaja,Vijay Sethupathi,50000,2019,8.5,Excellent,A
+96,Romance/Drama,8.5,C. Prem Kumar,Vijay Sethupathi,50000,2018,8.5,Excellent,U
+Vikram Vedha,Action/Thriller,8.3,Pushkar-Gayathri,Madhavan,45000,2017,8.0,Excellent,UA
+Maharaja,Thriller,8.4,Nithilan Saminathan,Vijay Sethupathi,40000,2024,8.5,Excellent,UA
+Soodhu Kavvum,Dark Comedy,8.0,Nalan Kumarasamy,Vijay Sethupathi,20000,2013,8.5,Excellent,UA
+Pizza,Horror/Thriller,7.5,Karthik Subbaraj,Vijay Sethupathi,14000,2012,8.5,Good,UA
+Jigarthanda,Action/Comedy,8.2,Karthik Subbaraj,Siddharth,30000,2014,7.2,Excellent,UA
+Petta,Action/Drama,7.2,Karthik Subbaraj,Rajinikanth,27000,2019,9.2,Good,UA
+Jigarthanda DoubleX,Action/Comedy,7.9,Karthik Subbaraj,Raghava Lawrence,12000,2023,7.5,Good,UA
+Mahaan,Action/Drama,6.6,Karthik Subbaraj,Vikram,13000,2022,8.4,Average,UA
+Pariyerum Perumal,Drama,8.6,Mari Selvaraj,Kathir,17000,2018,6.8,Excellent,UA
+Karnan,Action/Drama,8.0,Mari Selvaraj,Dhanush,27000,2021,8.6,Excellent,UA
+Maamannan,Drama/Political,7.6,Mari Selvaraj,Udhayanidhi Stalin,14000,2023,6.8,Good,UA
+Kaala,Action/Drama,5.9,Pa. Ranjith,Rajinikanth,22000,2018,9.2,Below Average,UA
+Kabali,Action/Crime,5.8,Pa. Ranjith,Rajinikanth,30000,2016,9.2,Below Average,UA
+Sarpatta Parambarai,Sports/Drama,7.7,Pa. Ranjith,Arya,25000,2021,7.4,Good,UA
+Madras,Action/Drama,7.7,Pa. Ranjith,Karthi,22000,2014,8.0,Good,UA
+Thangalaan,Period/Action,6.0,Pa. Ranjith,Vikram,8000,2024,8.4,Average,UA
+Jai Bhim,Drama/Crime,8.7,T. J. Gnanavel,Suriya,190000,2021,8.6,Excellent,UA
+Soorarai Pottru,Drama/Biography,8.7,Sudha Kongara,Suriya,140000,2020,8.6,Excellent,UA
+Singam,Action,6.8,Hari,Suriya,20000,2010,8.6,Average,UA
+Vaaranam Aayiram,Drama/Romance,8.2,Gautham Menon,Suriya,17000,2008,8.6,Excellent,UA
+Kaakha Kaakha,Action/Crime,8.0,Gautham Menon,Suriya,14000,2003,8.6,Excellent,UA
+Vinnaithaandi Varuvaaya,Romance/Drama,8.2,Gautham Menon,Silambarasan,28000,2010,7.8,Excellent,U
+Ghajini,Action/Thriller,7.3,A. R. Murugadoss,Suriya,13000,2005,8.6,Good,UA
+Thuppakki,Action/Thriller,8.0,A. R. Murugadoss,Vijay,25000,2012,8.8,Excellent,UA
+Kaththi,Action/Drama,7.9,A. R. Murugadoss,Vijay,21000,2014,8.8,Good,UA
+Sarkar,Political/Action,6.6,A. R. Murugadoss,Vijay,14000,2018,8.8,Average,UA
+Anniyan,Action/Thriller,8.1,Shankar,Vikram,40000,2005,8.4,Excellent,UA
+Enthiran,Sci-Fi/Action,7.1,Shankar,Rajinikanth,70000,2010,9.2,Good,U
+2.0,Sci-Fi/Action,6.1,Shankar,Rajinikanth,70000,2018,9.2,Average,U
+Mudhalvan,Political/Thriller,8.2,Shankar,Arjun Sarja,15000,1999,7.5,Excellent,UA
+Indian,Action/Drama,8.0,Shankar,Kamal Haasan,25000,1996,9.0,Excellent,UA
+Sivaji: The Boss,Action/Drama,7.2,Shankar,Rajinikanth,25000,2007,9.2,Good,UA
+Nayakan,Crime/Drama,8.6,Mani Ratnam,Kamal Haasan,25000,1987,9.0,Excellent,UA
+Thalapathi,Action/Drama,8.1,Mani Ratnam,Rajinikanth,15000,1991,9.2,Excellent,UA
+Roja,Romance/Drama,8.1,Mani Ratnam,Arvind Swamy,11000,1992,7.3,Excellent,U
+Bombay,Romance/Drama,7.8,Mani Ratnam,Arvind Swamy,12000,1995,7.3,Good,UA
+Alaipayuthey,Romance/Drama,7.8,Mani Ratnam,Madhavan,15000,2000,8.0,Good,U
+Ponniyin Selvan: I,Historical/Action,7.6,Mani Ratnam,Vikram,60000,2022,8.4,Good,UA
+Ponniyin Selvan: II,Historical/Action,7.1,Mani Ratnam,Vikram,35000,2023,8.4,Good,UA
+OK Kanmani,Romance/Drama,7.6,Mani Ratnam,Dulquer Salmaan,16000,2015,8.0,Good,UA
+Mouna Ragam,Romance/Drama,8.1,Mani Ratnam,Mohan,5000,1986,7.0,Excellent,U
+Anbe Sivam,Comedy/Drama,8.6,Sundar C.,Kamal Haasan,40000,2003,9.0,Excellent,U
+Virumandi,Action/Drama,8.0,Kamal Haasan,Kamal Haasan,8000,2004,9.0,Excellent,A
+Vishwaroopam,Action/Thriller,7.7,Kamal Haasan,Kamal Haasan,40000,2013,9.0,Good,UA
+Dasavathaaram,Action/Sci-Fi,7.4,K. S. Ravikumar,Kamal Haasan,30000,2008,9.0,Good,UA
+Thevar Magan,Drama/Crime,8.4,Bharathan,Kamal Haasan,12000,1992,9.0,Excellent,UA
+Michael Madhana Kama Rajan,Comedy,8.4,Singeetham Srinivasa Rao,Kamal Haasan,12000,1990,9.0,Excellent,U
+Apoorva Sagodharargal,Action/Comedy,7.9,Singeetham Srinivasa Rao,Kamal Haasan,8000,1989,9.0,Good,U
+Hey Ram,Historical/Drama,7.7,Kamal Haasan,Kamal Haasan,10000,2000,9.0,Good,UA
+Mahanadhi,Drama,8.5,Santhana Bharathi,Kamal Haasan,8000,1994,9.0,Excellent,UA
+Moondram Pirai,Romance/Drama,8.5,Balu Mahendra,Kamal Haasan,8000,1982,9.0,Excellent,U
+Baasha,Action/Drama,8.1,Suresh Krissna,Rajinikanth,17000,1995,9.2,Excellent,UA
+Padayappa,Action/Drama,7.9,K. S. Ravikumar,Rajinikanth,15000,1999,9.2,Good,UA
+Muthu,Comedy/Drama,7.3,K. S. Ravikumar,Rajinikanth,9000,1995,9.2,Good,U
+Chandramukhi,Comedy/Horror,7.4,P. Vasu,Rajinikanth,25000,2005,9.2,Good,U
+Vettaiyan,Action/Thriller,6.4,T. J. Gnanavel,Rajinikanth,25000,2024,9.2,Average,UA
+Mankatha,Action/Thriller,7.5,Venkat Prabhu,Ajith Kumar,28000,2011,8.7,Good,UA
+Billa,Action/Thriller,7.3,Vishnuvardhan,Ajith Kumar,15000,2007,8.7,Good,UA
+Viswasam,Action/Family,6.4,Siva,Ajith Kumar,20000,2019,8.7,Average,U
+Nerkonda Paarvai,Drama/Thriller,8.1,H. Vinoth,Ajith Kumar,13000,2019,8.7,Excellent,UA
+Thunivu,Action/Thriller,6.2,H. Vinoth,Ajith Kumar,25000,2023,8.7,Average,UA
+Ghilli,Action/Romance,7.6,Dharani,Vijay,14000,2004,8.8,Good,UA
+Mersal,Action/Drama,7.2,Atlee,Vijay,40000,2017,8.8,Good,UA
+Theri,Action/Drama,7.0,Atlee,Vijay,25000,2016,8.8,Good,UA
+Bigil,Sports/Action,6.8,Atlee,Vijay,25000,2019,8.8,Average,UA
+Varisu,Family/Drama,6.5,Vamshi Paidipally,Vijay,25000,2023,8.8,Average,U
+Thalaivaa,Action/Drama,5.8,A. L. Vijay,Vijay,8000,2013,8.8,Below Average,UA
+Amaran,Biography/War,8.2,Rajkumar Periasamy,Sivakarthikeyan,50000,2024,8.0,Excellent,UA
+Maaveeran,Action/Fantasy,7.1,Madonne Ashwin,Sivakarthikeyan,12000,2023,8.0,Good,UA
+Remo,Romance/Comedy,5.9,Bakkiyaraj Kannan,Sivakarthikeyan,9000,2016,8.0,Below Average,U
+Ethir Neechal,Comedy/Romance,6.7,R. S. Durai Senthilkumar,Sivakarthikeyan,8000,2013,8.0,Average,U
+Love Today,Romance/Comedy,7.4,Pradeep Ranganathan,Pradeep Ranganathan,30000,2022,7.5,Good,UA
+Dragon,Comedy/Drama,7.2,Ashwath Marimuthu,Pradeep Ranganathan,15000,2025,7.5,Good,UA
+Oh My Kadavule,Fantasy/Romance,7.8,Ashwath Marimuthu,Ashok Selvan,15000,2020,7.0,Good,UA
+Kadhalikka Neramillai,Romance/Comedy,6.5,Kiruthiga Udhayanidhi,Jayam Ravi,5000,2025,7.4,Average,UA
+Thani Oruvan,Action/Thriller,8.4,Mohan Raja,Jayam Ravi,50000,2015,7.4,Excellent,UA
+Comali,Comedy/Drama,7.1,Pradeep Ranganathan,Jayam Ravi,8000,2019,7.4,Good,U
+Pichaikkaran,Action/Drama,7.2,Sasi,Vijay Antony,15000,2016,6.8,Good,U
+Naan,Thriller,7.1,Jeeva Shankar,Vijay Antony,7000,2012,6.8,Good,UA
+Imaikkaa Nodigal,Crime/Thriller,8.0,R. Ajay Gnanamuthu,Nayanthara,25000,2018,8.0,Excellent,UA
+Aramm,Drama/Thriller,7.8,Gopi Nainar,Nayanthara,9000,2017,8.0,Good,UA
+Raatchasan,Crime/Thriller,8.4,Ram Kumar,Vishnu Vishal,50000,2018,7.0,Excellent,UA
+Ponmagal Vandhal,Drama/Thriller,6.8,J. J. Fredrick,Jyothika,8000,2020,7.5,Average,UA
+Theeran Adhigaaram Ondru,Action/Crime,8.2,H. Vinoth,Karthi,25000,2017,8.0,Excellent,UA
+Paruthiveeran,Action/Drama,8.0,Ameer Sultan,Karthi,13000,2007,8.0,Excellent,A
+Kaatru Veliyidai,Romance/War,6.2,Mani Ratnam,Karthi,8000,2017,8.0,Average,UA
+Sardar,Action/Thriller,7.1,P. S. Mithran,Karthi,12000,2022,8.0,Good,UA
+Dhruva Natchathiram,Action/Thriller,6.2,Gautham Menon,Vikram,7000,2023,8.4,Average,UA
+Pithamagan,Drama,8.2,Bala,Vikram,14000,2003,8.4,Excellent,A
+Sethu,Romance/Drama,8.4,Bala,Vikram,12000,1999,8.4,Excellent,UA
+Naan Kadavul,Drama/Thriller,8.0,Bala,Arya,14000,2009,7.4,Excellent,A
+Aayirathil Oruvan,Adventure/Fantasy,7.5,Selvaraghavan,Karthi,15000,2010,8.0,Good,UA
+Pudhupettai,Crime/Drama,8.2,Selvaraghavan,Dhanush,16000,2006,8.6,Excellent,A
+Mayakkam Enna,Drama/Romance,7.9,Selvaraghavan,Dhanush,12000,2011,8.6,Good,UA
+Thiruchitrambalam,Romance/Comedy,7.5,Mithran R. Jawahar,Dhanush,20000,2022,8.6,Good,U
+Raayan,Action/Crime,6.5,Dhanush,Dhanush,13000,2024,8.6,Average,A
+Velaiyilla Pattadhari,Drama/Action,7.3,Velraj,Dhanush,20000,2014,8.6,Good,U
+Mynaa,Romance/Drama,7.5,Prabhu Solomon,Vidharth,6000,2010,6.8,Good,UA
+Subramaniapuram,Crime/Drama,8.4,Sasikumar,Jai,20000,2008,6.9,Excellent,UA
+Kadhal,Romance/Drama,8.1,Balaji Sakthivel,Bharath,9000,2004,6.8,Excellent,UA
+Autograph,Drama/Romance,8.1,Cheran,Cheran,9000,2004,7.0,Excellent,U
+Kanchivaram,Drama,8.2,Priyadarshan,Prakash Raj,7000,2008,8.0,Excellent,U

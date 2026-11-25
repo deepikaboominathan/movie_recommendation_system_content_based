@@ -1,0 +1,15 @@
+@"
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.env.local
+node_modules/
+.next/
+out/
+dist/
+build/
+.vscode/
+"@ | Set-Content .gitignore
+*.tsbuildinfo
