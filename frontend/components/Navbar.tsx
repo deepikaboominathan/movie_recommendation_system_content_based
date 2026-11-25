@@ -22,7 +22,7 @@ export default function Navbar({
   return (
     <header
       className={`fixed inset-x-0 top-0 z-50 px-6 py-4 transition-colors duration-300 sm:px-12 ${
-        solid ? "bg-[#141414]" : "bg-gradient-to-b from-black/90 to-transparent"
+        solid ? "bg-[#141414]" : "bg-linear-to-b from-black/90 to-transparent"
       }`}
     >
       <div className="flex items-center justify-between gap-4">

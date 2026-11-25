@@ -1,4 +1,3 @@
-
 const BASE =
   process.env.NEXT_PUBLIC_API_URL ??
   "https://movie-recommendation-ashy.vercel.app";

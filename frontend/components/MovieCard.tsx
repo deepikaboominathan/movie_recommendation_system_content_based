@@ -16,9 +16,9 @@ export default function MovieCard({
     <button
       onClick={() => onSelect(movie.MovieName)}
       style={posterStyle(movie.Genre)}
-      className="group relative aspect-[2/3] w-[150px] shrink-0 overflow-hidden rounded-md text-left shadow-lg transition duration-300 hover:z-20 hover:scale-110 hover:shadow-2xl hover:shadow-black sm:w-[180px]"
+      className="group relative aspect-2/3 w-37.5 shrink-0 overflow-hidden rounded-md text-left shadow-lg transition duration-300 hover:z-20 hover:scale-110 hover:shadow-2xl hover:shadow-black sm:w-45"
     >
-      <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent" />
+      <div className="absolute inset-0 bg-linear-to-t from-black/90 via-black/20 to-transparent" />
       <span className="absolute left-2 top-2 text-lg font-black leading-none text-[#E50914]">
         T
       </span>

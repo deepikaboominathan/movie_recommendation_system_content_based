@@ -18,8 +18,8 @@ export default function Hero({
       style={posterStyle(movie.Genre)}
     >
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(229,9,20,0.25),transparent_60%)]" />
-      <div className="absolute inset-0 bg-gradient-to-r from-[#141414] via-[#141414]/60 to-transparent" />
-      <div className="absolute inset-x-0 bottom-0 h-48 bg-gradient-to-t from-[#141414] to-transparent" />
+      <div className="absolute inset-0 bg-linear-to-r from-[#141414] via-[#141414]/60 to-transparent" />
+      <div className="absolute inset-x-0 bottom-0 h-48 bg-linear-to-t from-[#141414] to-transparent" />
 
       <div className="relative z-10 max-w-2xl px-6 pb-28 pt-40 sm:px-12">
         <p className="mb-3 text-xs font-bold uppercase tracking-[0.3em] text-[#E50914]">

@@ -7,9 +7,8 @@ import Navbar from "@/components/Navbar";
 import {
   getAllMovies,
   getRecommendations,
-  Movie,
-  RecommendResponse,
 } from "@/lib/api";
+import type { Movie, RecommendResponse } from "@/lib/api";
 
 const has = (m: Movie, g: string) => m.Genre.toLowerCase().includes(g);
 
@@ -119,7 +118,7 @@ export default function Home() {
             {Array.from({ length: 7 }).map((_, i) => (
               <div
                 key={i}
-                className="aspect-[2/3] w-[150px] animate-pulse rounded-md bg-white/10 sm:w-[180px]"
+                className="aspect-2/3 w-37.5 animate-pulse rounded-md bg-white/10 sm:w-45"
               />
             ))}
           </div>
